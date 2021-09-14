@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834319473131",
+    "project_id": "birthday-displayer-app",
+    "storage_bucket": "birthday-displayer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834319473131:android:2da19a9438118a1cc6a1ae",
+        "android_client_info": {
+          "package_name": "com.example.birthday_displayer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834319473131-qn83vfe6255655s5hn8ijg1uuo63u9k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfqImJqubyG5kGV5YASTsubKN0f5BzAOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834319473131-qn83vfe6255655s5hn8ijg1uuo63u9k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
